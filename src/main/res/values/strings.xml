@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Trabajo Final</string>
+    <string name="ingrese_su_texto">Ingrese su Texto</string>
+    <string name="ingrese_su_texto1">Ingrese su Texto...</string>
+    <string name="ingrese_su_texto2">Ingrese su Texto...</string>
+    <string name="textoBoton">Comparar</string>
+</resources>
